@@ -1,0 +1,11 @@
+group: hhh_alignment_es
+task:
+  - hhh_alignment_es_harmless
+  - hhh_alignment_es_helpful
+  - hhh_alignment_es_honest
+  - hhh_alignment_es_other
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+  - metric: acc_norm
+    aggregation: mean
