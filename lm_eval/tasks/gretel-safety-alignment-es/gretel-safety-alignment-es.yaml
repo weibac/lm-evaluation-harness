@@ -1,0 +1,12 @@
+group: gretel-safety-alignment-es
+task:
+  - gretel-safety-alignment-es-discrimination
+  - gretel-safety-alignment-es-information-hazards
+  - gretel-safety-alignment-es-malicious-use
+  - gretel-safety-alignment-es-societal-risks
+  - gretel-safety-alignment-es-system-risks
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+  - metric: acc_norm
+    aggregation: mean
