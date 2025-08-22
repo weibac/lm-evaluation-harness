@@ -1,5 +1,5 @@
 task: gretel-safety-alignment-es-information-hazards
-dataset_path: weibac/gretel-safety-alignment-es-v1
+dataset_path: latam-gpt/gretel-safety-alignment-es-v1
 dataset_name: Information Hazards
 training_split: train
 validation_split: validation

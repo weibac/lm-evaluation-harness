@@ -1,5 +1,5 @@
 task: gretel-safety-alignment-es-discrimination
-dataset_path: weibac/gretel-safety-alignment-es-v1
+dataset_path: latam-gpt/gretel-safety-alignment-es-v1
 dataset_name: Discrimination
 training_split: train
 validation_split: validation

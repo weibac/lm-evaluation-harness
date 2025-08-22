@@ -1,5 +1,5 @@
 task: gretel-safety-alignment-es-malicious-use
-dataset_path: weibac/gretel-safety-alignment-es-v1
+dataset_path: latam-gpt/gretel-safety-alignment-es-v1
 dataset_name: Malicious Use
 training_split: train
 validation_split: validation

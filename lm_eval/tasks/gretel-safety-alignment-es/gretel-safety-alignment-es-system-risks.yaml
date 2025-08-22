@@ -1,5 +1,5 @@
 task: gretel-safety-alignment-es-system-risks
-dataset_path: weibac/gretel-safety-alignment-es-v1
+dataset_path: latam-gpt/gretel-safety-alignment-es-v1
 dataset_name: System Risks
 training_split: train
 validation_split: validation
