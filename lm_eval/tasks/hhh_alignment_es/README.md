@@ -20,7 +20,21 @@ hhh_alignment_es (Helpful, Honest, & Harmless - a Pragmatic Alignment Evaluation
 * `hhh_alignment_es_honest`:  `honest subset of the hhh_alignment_es prompt dataset`
 * `hhh_alignment_es_other`:  `other subset of the hhh_alignment_es prompt dataset`
 
-### Citation (for the original english dataset paper)
+
+### Citation
+
+```text
+@dataset{bsc2024hhh_es,
+  author = {{Barcelona Supercomputing Center Language Technologies Unit}},
+  title = {hhh\_alignment\_es: Spanish Translation of the 
+           Helpful, Honest, and Harmless Alignment Dataset},
+  year = {2024},
+  publisher = {Hugging Face},
+  url = {https://huggingface.co/datasets/BSC-LT/hhh_alignment_es},
+}
+```
+
+### Citation for the original english dataset paper
 
 ```text
 @article{DBLP:journals/corr/abs-2112-00861,
