@@ -10,7 +10,7 @@ This benchmark is based on the gretel-safety-alignment-en-v1 dataset, which is a
     title = {Gretel Synthetic Safety Alignment Dataset},
     year = {2024},
     month = {12},
-    publisher = {Gretel},
+    author = {Gretel},
     url = {https://huggingface.co/datasets/gretelai/gretel-safety-alignment-en-v1}
 }
 ```

@@ -10,7 +10,7 @@ This benchmark is based on the gretel-safety-alignment-es-v1 dataset, which is a
     title = {Gretel Synthetic Safety Alignment Dataset in Spanish},
     year = {2025},
     month = {8},
-    publisher = {latam-gpt},
+    author = {latam-gpt},
     url = {https://huggingface.co/datasets/latam-gpt/gretel-safety-alignment-es-v1},
 }
 ```
